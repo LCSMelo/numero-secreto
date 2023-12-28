@@ -1,0 +1,37 @@
+[33mcommit 8f6ace9b6bc1df891a649136b92d6ce590c092e6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lucas Melo <lucas.lljm@gmail.com>
+Date:   Thu Dec 28 15:39:47 2023 -0300
+
+    Revert "imagem retirada"
+    
+    This reverts commit dbffefa3074addd189fa23971d52f7e81857ab4a.
+
+[33mcommit dbffefa3074addd189fa23971d52f7e81857ab4a[m
+Author: Lucas Melo <lucas.lljm@gmail.com>
+Date:   Thu Dec 28 15:33:48 2023 -0300
+
+    imagem retirada
+
+[33mcommit e19e75a6106cf63595de64a26d4c7c1300a971d2[m
+Author: Lucas Melo <lucas.lljm@gmail.com>
+Date:   Thu Dec 28 11:38:20 2023 -0300
+
+    aumentando a dificuldade
+
+[33mcommit 017d58fead22385ff4bdb10e77b8195728df2563[m
+Author: Lucas Melo <lucas.lljm@gmail.com>
+Date:   Thu Dec 28 07:56:18 2023 -0300
+
+    Deixando o jogo mais facil
+
+[33mcommit 2371b447fae9b1e5f619d2a2a992892e0e69bb92[m
+Author: Lucas Leonardo <Lucas Melo>
+Date:   Wed Dec 27 20:32:27 2023 -0300
+
+    alterando limite para 100
+
+[33mcommit 41c05248501f8c0013bb698df4cbe056b4f5850e[m
+Author: Lucas Leonardo <Lucas Melo>
+Date:   Wed Dec 27 14:59:17 2023 -0300
+
+    projeto inicial
